@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-bunch-of-friends",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bunch of friends' tslint configuration file",
   "main": "tslint.json",
   "license": "MIT",
