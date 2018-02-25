@@ -1,0 +1,40 @@
+{
+  "name": "tslint-config-bunch-of-friends",
+  "version": "1.0.0",
+  "description": "Bunch of friends' tslint configuration file",
+  "main": "tslint.json",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "David Bohunek",
+      "email": "bohunek@gmail.com"
+    }
+  ],
+  "keywords": [
+    "tslint",
+    "rules",
+    "lint",
+    "linting",
+    "linter",
+    "tslint-plugin",
+    "typescript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bunch-of-friends/tslint-config-bunch-of-friends.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bunch-of-friends/tslint-config-bunch-of-friends/issues"
+  },
+  "homepage": "https://github.com/bunch-of-friends/tslint-config-bunch-of-friends#readme",
+  "devDependencies": {
+    "tslint": "^5.9.1",
+    "tslint-eslint-rules": "^5.0.0",
+    "typescript": "^2.7.2"
+  },
+  "peerDependencies": {
+    "tslint": ">=5.9.0",
+    "tslint-eslint-rules": ">=5.0.0",
+    "typescript": ">=2.7.0"
+  }
+}
