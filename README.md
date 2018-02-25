@@ -1,4 +1,4 @@
-# ts-config-bunch-of-friends
+# tslint-config-bunch-of-friends
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](https://github.com/bunch-of-friends/tslint-config-bunch-of-friends/blob/master/LICENSE)
 [![npm version](https://badge.fury.io/js/tslint-config-bunch-of-friends.svg)](https://badge.fury.io/js/tslint-config-bunch-of-friends)
