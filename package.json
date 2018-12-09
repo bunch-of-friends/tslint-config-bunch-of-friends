@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-bunch-of-friends",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Bunch of friends' tslint configuration file",
   "main": "tslint.json",
   "license": "MIT",
@@ -28,13 +28,13 @@
   },
   "homepage": "https://github.com/bunch-of-friends/tslint-config-bunch-of-friends#readme",
   "devDependencies": {
-    "tslint": "^5.9.1",
-    "tslint-eslint-rules": "^5.0.0",
+    "tslint": "^5.11.0",
+    "tslint-eslint-rules": "^5.4.0",
     "typescript": "^3.2.2"
   },
   "peerDependencies": {
-    "tslint": ">=5.9.0",
-    "tslint-eslint-rules": ">=5.0.0",
-    "typescript": ">=2.7.0"
+    "tslint": ">=5.11.0",
+    "tslint-eslint-rules": ">=5.4.0",
+    "typescript": ">=3.2.2"
   }
 }
